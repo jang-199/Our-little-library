@@ -1,0 +1,4 @@
+참고
+
+1.repo를 본인 local에 clone
+2.본인 branch 생성 후 main branch는 pull requests 통해서 merge
